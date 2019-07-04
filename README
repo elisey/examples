@@ -1,0 +1,3 @@
+HAL - some HAL modules for stm32f10x MCU
+packet_parser - module for assembly and disassembly custom protocol packets.
+
